@@ -1,0 +1,11 @@
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\bin\Debug\Lingo OOP -V2.exe.config
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\bin\Debug\Lingo OOP -V2.exe
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\bin\Debug\Lingo OOP -V2.pdb
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo OOP -V2.csproj.AssemblyReference.cache
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo_OOP__V2.Form1.resources
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo_OOP__V2.Properties.Resources.resources
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo OOP -V2.csproj.GenerateResource.cache
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo OOP -V2.csproj.CoreCompileInputs.cache
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo OOP -V2.exe
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo OOP -V2.pdb
+C:\Users\JMMwr\OneDrive\Documenten\Ja2_school Blok 7\Eind-project blok 7\Lingo\Lingo OOP -V2\Lingo OOP -V2\obj\Debug\Lingo_OOP__V2.Form2.resources
